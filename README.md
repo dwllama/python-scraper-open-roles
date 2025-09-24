@@ -1,4 +1,4 @@
-# Career Scraper
+# Targeted Role Search
 
 Influenced by a close friend who was laid off from her job earlier this year, this script is designed to scrape job listings from the careers pages of desired companies and search for specific job keywords. The results are then saved to a CSV file showing the user which companies have roles the user is looking for. This script can be scheduled to run automatically on a daily basis to save the user an immense amount of time vs visiting each individual URL separatelty to check for updated roles.
 
