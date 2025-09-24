@@ -4,9 +4,9 @@ Influenced by a close friend who was laid off from her job earlier this year, th
 
 ## Features
 
-- Scrapes job listings from multiple company careers pages.
-- Searches for specific job keywords in the scraped data.
-- Saves the results to a CSV file with a timestamp in the filename.
+- Scrapes job listings from a specified list of company careers pages.
+- Searches for specific role keywords in the scraped data.
+- Saves the results to a CSV file with a timestamp in the filename daily.
 
 ## Requirements
 
